@@ -1,0 +1,96 @@
+body {
+ 
+    
+}
+.home {
+
+}
+.index {
+background-image: url("/home/pi/Desktop/Website/naru.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.gallery1 {
+background-image: url("/home/pi/Desktop/Website/gallery1.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}   
+.gallery2 {
+background-image: url("/home/pi/Desktop/Website/gallery2.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.gallery3 {
+background-image: url("/home/pi/Desktop/Website/gallery3.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.aboutMe {
+background-image: url("/home/pi/Desktop/Website/aboutMe.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+.whitebox {
+margin-left: auto;
+margin-right: auto;
+text-align:center;
+width:500px;
+background-color: #DDA15E;
+}
+.navbox {
+margin-left: auto;
+width:500px;
+background-color; #DDA15E;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  float:left;
+}
+
+li a{
+    display:block;
+    color: black;
+    text-align: center;
+    text-dectoration; none;
+    }
+nav {
+  background-color: #333;
+  color: #fff;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+nav li {
+  margin: 0 10px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+nav a:hover {
+  color: #ffd700;
+}
